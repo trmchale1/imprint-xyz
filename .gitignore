@@ -15,5 +15,5 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
-vendor/assets/*
-vendor/bundle*
+vendor/assets
+vendor/bundle
