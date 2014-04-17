@@ -7,7 +7,7 @@
 # Ignore bundler config.
 /.bundle
 
-vendor
+
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-journal
@@ -15,3 +15,5 @@ vendor
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+vendor/assets/*
+vendor/bundle*
